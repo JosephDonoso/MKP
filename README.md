@@ -2,10 +2,6 @@
 
 El Problema de la Mochila Múltiple (MKP, por sus siglas en inglés) es una extensión del clásico Problema de la Mochila. En el MKP, en lugar de una única mochila, hay varias mochilas, cada una con una capacidad limitada. El objetivo es seleccionar un subconjunto de ítems, cada uno con un peso y un valor, de manera que el valor total de los ítems en todas las mochilas sea maximizado, sin exceder la capacidad de ninguna mochila.
 
-Integrantes:
-
-*   Joseph Donoso Carvacho 21.067.120-K
-*   Felipe Zepeda Cofre 20.781.030-4
 
 **Para ejecutar el código se recomienda el uso de una interfaz que maneje los archivos .ipynb como Colab**
 
